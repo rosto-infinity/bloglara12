@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 
 class AuthorController extends Controller
 {
-    // use UploadFile;
+    // -use UploadFile;
 
     public function index()
     {
