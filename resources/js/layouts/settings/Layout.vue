@@ -25,6 +25,7 @@ const page = usePage();
 const currentPath = page.props.ziggy?.location ? new URL(page.props.ziggy.location).pathname : '';
 </script>
 
+
 <template>
     <div class="px-4 py-6">
         <Heading title="Settings" description="Manage your profile and account settings" />

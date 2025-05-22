@@ -14,6 +14,11 @@ const mainNavItems: NavItem[] = [
         href: '/dashboard',
         icon: LayoutGrid,
     },
+    {
+        title: 'Authors',
+        href: '/blog-author',
+        icon: BookOpen, // Icône pour les auteurs
+    },
 ];
 
 const footerNavItems: NavItem[] = [
